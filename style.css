@@ -5,12 +5,13 @@
   font-family: 'Poppins', sans-serif;
 }
 body {
-  background: url('C:/Users/apurv/OneDrive/Pictures/Screenshots/Screenshot 2025-06-22 180528.png') center/cover no-repeat;
+  background-color: #1a1a2e; /* Change this to any color you like */
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
 }
+
 .container {
   text-align: center;
 }
